@@ -1,0 +1,8 @@
+.destaques{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 33.33% 33.33% 33.33%;
+    /*Para que la seccion de contenido cubra el 100% de la pantalla*/
+    /*Además le digo que comience a partir de los 50px que tiene el header*/
+    height: calc(110vh -50px);
+}
