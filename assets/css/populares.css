@@ -1,5 +1,5 @@
 .populares{
-    padding: 3rem 2rem ;
+    padding: 3rem 0;
 }
 
 .populares__card{
@@ -65,7 +65,7 @@
     margin-right: 0.25rem;
 }
 
-.populares__card___header{
+.populares__header{
     border-bottom: 1px solid #dcdcdc;
     display: flex;
     justify-content: space-between;
